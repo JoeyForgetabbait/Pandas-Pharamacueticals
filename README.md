@@ -2,4 +2,4 @@
 Using Pandas, analyze novel drug efficacy
 
 ## Analysis Code Path ::
-JoeyForgetabbait/Pandas-Pharmaceuticals/pymaceuticalsfinal/Pymaceuticalsfinal.ipynb
+JoeyForgetabbait/Pandas-Pharmaceuticals/Pymaceuticals Analysis/Pymaceuticalsfinal.ipynb
